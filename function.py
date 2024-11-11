@@ -4,7 +4,7 @@ def greet():
     # word = "hello world"
      print("word")
 
-#call the function
+#call the greet function
 # greet()
 
 def greeting():

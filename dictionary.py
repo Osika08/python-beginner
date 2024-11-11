@@ -3,14 +3,14 @@ print(name)
 
 word = [
       {
-          "name":"chimamanda",
+          "name":"nelson mandela",
           "hobby":"dancing",
           "school":"Toamy Hills",
           "color":"indigo"
         },
        {
           "name":"david",
-          "hobby":"playing football",
+          "hobby":"playing tamborine",
           "school":"Nigeria Navy",
           "color":"violet"
         },
